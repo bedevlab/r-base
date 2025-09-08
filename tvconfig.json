@@ -17,7 +17,7 @@
       "titleKey": "livetv_cat_bein",
       "topicDomain": "beirtv",
       "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/pro/beirtv.m3u"
+      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/beirtv.m3u"
     },
     {
       "titleKey": "livetv_cat_kids",
