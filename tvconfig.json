@@ -53,7 +53,7 @@
       "titleKey": "livetv_cat_arabic",
       "topicDomain": "arabic",
       "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/arabic.m3u"
+      "m3uUrl": "http://fgcode.org/reezntv"
     },
     {
       "titleKey": "livetv_cat_shows",
