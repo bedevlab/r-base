@@ -59,7 +59,7 @@
       "titleKey": "livetv_cat_shows",
       "topicDomain": "liveshows",
       "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/liveshows.m3u"
+      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/temp2.m3u"
     },
     {
       "titleKey": "livetv_cat_music",
