@@ -53,7 +53,7 @@
       "titleKey": "livetv_cat_arabic",
       "topicDomain": "arabic",
       "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/Love4vn/love4vn/53fbc03c28a1ef1634919e5afcf30f4e4048faef/Sport.m3u"
+      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-pro.m3u"
     },
     {
       "titleKey": "livetv_cat_shows",
