@@ -1,5 +1,4 @@
-{
-    "allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
+{"allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
   "categories": [
     {
       "titleKey": "livetv_cat_sports",
