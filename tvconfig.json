@@ -5,7 +5,7 @@
       "titleKey": "livetv_cat_sports",
       "topicDomain": "sports",
       "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/sports.m3u"
+      "m3uUrl": "cardinal@raHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JlZGV2bGFiL3ItdHYvcmVmcy9oZWFkcy9tYWluL2xpdmVwdHYvY2F0ZWdvcmllcy9zcG9ydHMubTN1"
     },
     {
       "titleKey": "livetv_cat_movies",
