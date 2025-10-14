@@ -1,14 +1,11 @@
-{"appConfig": {
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TVING_logo.svg/1200px-TVING_logo.svg.png"
-  },
-"tvConfig": {
-  "allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
+{
+    "allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
   "categories": [
     {
       "titleKey": "livetv_cat_sports",
       "topicDomain": "sports",
       "topicType": "Category",
-      "m3uUrl": "cardinal@raHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JlZGV2bGFiL3ItdHYvcmVmcy9oZWFkcy9tYWluL2xpdmVwdHYvY2F0ZWdvcmllcy9zcG9ydHMubTN1"
+      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/movies.m3u"
     },
     {
       "titleKey": "livetv_cat_movies",
