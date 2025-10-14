@@ -1,76 +1,28 @@
-{"allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
-  "categories": [
-    {
-      "titleKey": "livetv_cat_sports",
-      "topicDomain": "sports",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/movies.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_movies",
-      "topicDomain": "movies",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/movies.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_bein",
-      "topicDomain": "beirtv",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/beirtv.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_kids",
-      "topicDomain": "kids",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/kids.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_documentary",
-      "topicDomain": "documentary",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/documentary.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_american",
-      "topicDomain": "us",
-      "topicType": "Country",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/countries/us.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_korean",
-      "topicDomain": "kr",
-      "topicType": "Country",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/countries/kr.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_french",
-      "topicDomain": "fr",
-      "topicType": "Country",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/countries/fr.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_arabic",
-      "topicDomain": "arabic",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-pro.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_shows",
-      "topicDomain": "liveshows",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/temp2.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_music",
-      "topicDomain": "music",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/music.m3u"
-    },
-    {
-      "titleKey": "livetv_cat_news",
-      "topicDomain": "news",
-      "topicType": "Category",
-      "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/news.m3u"
-    }
-  ]
+{
+  "tv_config": {
+    "allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
+    "categories": [
+      {
+        "titleKey": "livetv_cat_sports",
+        "topicDomain": "sports",
+        "topicType": "Category",
+        "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/movies.m3u"
+      },
+      {
+        "titleKey": "livetv_cat_movies",
+        "topicDomain": "movies",
+        "topicType": "Category",
+        "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/movies.m3u"
+      },
+      {
+        "titleKey": "livetv_cat_bein",
+        "topicDomain": "beirtv",
+        "topicType": "Category",
+        "m3uUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/categories/beirtv.m3u"
+      }
+    ]
+  },
+  "app_config": {
+    "friendlyLogoUrl": "https://example.com/your_logo.png"
+  }
 }
