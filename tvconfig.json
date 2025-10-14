@@ -1,4 +1,7 @@
-{
+{"appConfig": {
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TVING_logo.svg/1200px-TVING_logo.svg.png"
+  },
+"tvConfig": {
   "allChannelsUrl": "https://raw.githubusercontent.com/bedevlab/r-tv/refs/heads/main/liveptv/rtv-index.m3u",
   "categories": [
     {
